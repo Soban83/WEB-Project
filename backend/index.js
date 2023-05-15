@@ -1,10 +1,4 @@
-//const express = require('express')
 
-// Importing user route
-
-// const router = require('router')
-
-// const bodyParser = require('body-parser')
 const express = require("express");
 const bodyParser = require("body-parser");
 const router = require("./routes/users");
